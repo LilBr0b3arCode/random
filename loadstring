@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilBr0b3arCode/random/refs/heads/main/dombieware.lua", true))()
